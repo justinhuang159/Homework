@@ -1,0 +1,23 @@
+Five important considerations for wire framing:
+
+1 - Clarify the problem
+Ask stakeholders:
+- What is the project?
+- What problem is it solving?
+- How do we know it's a problem?
+- Who is it for?
+- Where is this page or tool going to live?
+Before you start planning a solution, know the problem.
+
+2 - Workflows and Sketches
+Sketching can happen anywhere, anytime. Sketching with stakeholders early on is a great way to talk through the problem and workflow. Pinning down the workflow and necessary screens will streamline the process.
+
+3 - Get Feedback (Early)
+Show developers, designers, and product managers a possible solution. It helps incorporate and consider the technical limitations and other unforeseen capabilities. Also helps with developing a timeframe for building a solution.
+
+4 - Know Your Tools
+Turn sketches into designs. (Omnigraffle) 
+
+5 - Know Your Audience
+Fidelity of wireframes has to be tailored to your audience. High-fidelity wireframes for those who needed to see the concept fleshed out as close to reality as possible. Low-fidelity wireframes for those who simply wanted to know where the interactive elements were with a description of how they worked.
+
